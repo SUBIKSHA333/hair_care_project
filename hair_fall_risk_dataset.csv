@@ -1,0 +1,11 @@
+Age,Gender,Sleep,Stress,Wash_Freq,Shampoo_Type,Diet_Quality,Water_Type,Hair_Fall_Risk
+22,F,6,8,3,Herbal,Good,Hard,High
+25,M,7,4,2,Chemical,Poor,Soft,Medium
+19,F,8,2,4,Herbal,Excellent,Soft,Low
+30,M,5,9,2,Chemical,Poor,Hard,High
+28,F,6,6,3,Herbal,Good,Hard,Medium
+24,M,7,7,2,Chemical,Average,Soft,Medium
+21,F,8,3,4,Herbal,Excellent,Soft,Low
+26,M,6,5,1,Chemical,Average,Hard,Medium
+35,M,5,9,2,Chemical,Poor,Hard,High
+20,F,9,1,5,Herbal,Excellent,Soft,Low
